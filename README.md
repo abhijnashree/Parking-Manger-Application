@@ -1,5 +1,4 @@
-
-### PARKING MANAGER
+# PARKING MANAGER
 
 - The parking manager application is an application which is built to calculate the prices for parking vehicles based on the time at which they checkin.
 - This application takes three user inputs,the vehicle number,the vehicle color,the vehicle model  and the checkin time is calculated using the datetime module.
